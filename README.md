@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThiagoAlbqq
+- 👀 I’m interested in JavaScript.
+- 🌱 I’m currently learning Python e Java.
+- 💞️ I’m looking to collaborate com alguem que me ajude.
+- 📫 How to reach me instagram  @thiagoalbq_
