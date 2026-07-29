@@ -18,10 +18,6 @@ Estudante de Ciência da Computação na **Universidade Federal do Ceará (UFC)*
 * **1º Lugar** – Maratona de Teoria dos Grafos (UFC)
 * **2º Lugar** – Maratona de Matemática Computacional (UFC)
 * **Medalha de Prata** – Concurso Canguru de Matemática (2018 & 2019)
-* **Destaques Acadêmicos:** 
-  * Matemática Computacional (10.0)
-  * Projeto e Análise de Algoritmos - PAA (9.7)
-  * Teoria dos Grafos (9.3)
 
 ---
 
