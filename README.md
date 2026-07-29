@@ -1,20 +1,44 @@
-Thiago - Web Developer 🚀
-Hey there! I'm Thiago, a technology enthusiast passionate about creating incredible web experiences. With a solid background in web development and an insatiable thirst for learning, I'm constantly exploring new technologies and honing my skills to deliver innovative solutions.
+# Olá, eu sou o Thiago 👋
 
-My Skills 🛠️
-Programming Languages: JavaScript, HTML, CSS
-Frameworks and Libraries: React.js, Node.js, Tailwind CSS
-Databases: Basic knowledge of MySQL
-Development Tools: Git, VS Code
-What I'm Up To 🌟
-Building responsive and dynamic web applications using the latest technologies.
-Collaborating on open-source projects to contribute to the developer community.
-Learning continuously and seeking new challenges to expand my knowledge.
-Contact Me 📫
-Phone: +55 88 98868-2608
-LinkedIn: Thiago Celestino
-Website: https://thiagoalbqq.github.io/HomePage
-Email: thiago.ce.al@gmail.com
+Estudante de Ciência da Computação na **Universidade Federal do Ceará (UFC)**, com foco em **Pesquisa Operacional, Otimização e Modelagem Matemática**. Atualmente atuo como bolsista/pesquisador no **NERDS** (Núcleo Especializado em Reengenharia e Desenvolvimento de Software), desenvolvendo sistemas de grande impacto e integrando lógica algorítmica a aplicações reais.
 
-I'm always open to new collaboration opportunities and exciting projects. Feel free to reach out!
+---
 
+### 💻 Stack Tecnológica
+
+* **Linguagens & Core:** Java, JavaScript, Python
+* **Web & Frameworks:** React, Node.js, Spring Boot, HTML, CSS
+* **Áreas de Foco:** Pesquisa Operacional, Otimização, Modelagem Matemática, Algoritmos e Estruturas de Dados
+* **Ferramentas & Banco de Dados:** Git, GitHub, Docker, SQL
+
+---
+
+### 🏆 Conquistas & Acadêmico
+
+* **1º Lugar** – Maratona de Teoria dos Grafos (UFC)
+* **2º Lugar** – Maratona de Matemática Computacional (UFC)
+* **Medalha de Prata** – Concurso Canguru de Matemática (2018 & 2019)
+* **Destaques Acadêmicos:** 
+  * Matemática Computacional (10.0)
+  * Projeto e Análise de Algoritmos - PAA (9.7)
+  * Teoria dos Grafos (9.3)
+
+---
+
+### 🚀 O que estou construindo / Pesquisando
+* Desenvolvimento de aplicações com processamento em lote (*batch processing*) e multithreading para órgãos públicos e pró-reitorias na UFC.
+* Pesquisa e desenvolvimento de artigo científico voltado para algoritmos de otimização aplicados a problemas logísticos e de alocação de recursos.
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=vue&hide_border=true" />
+</p>
+
+---
+
+📫 **Como me achar:**
+* LinkedIn: [Seu Nome](https://linkedin.com/in/seu-usuario)
+* E-mail: thiago.ce.al@gmail.com
