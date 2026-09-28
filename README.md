@@ -33,7 +33,7 @@ Ferramentas/OS   : Git, GitHub, Docker, Linux, VS Code
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThiagoAlbqq&theme=github_dark_duo&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ThiagoAlbqq&theme=github_dark_duo&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 ---
