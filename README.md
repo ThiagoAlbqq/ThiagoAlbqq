@@ -28,8 +28,8 @@ Ferramentas/OS   : Git, GitHub, Docker, Linux, VS Code
 ### Estatísticas
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlbqq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlbqq&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" alt="Top Languages" />
+  <img height="155" src="https://github-stats-extended.vercel.app/api?username=ThiagoAlbqq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" />
+  <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThiagoAlbqq&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" alt="Top Languages" />
 </div>
 
 <div align="center">
