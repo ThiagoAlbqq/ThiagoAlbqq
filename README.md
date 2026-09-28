@@ -33,7 +33,19 @@ Ferramentas/OS   : Git, GitHub, Docker, Linux, VS Code
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoAlbqq&theme=github_dark_duo&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ThiagoAlbqq&theme=github_dark_duo&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&dates=8B949E" alt="GitHub Streak" />
+</div>
+
+---
+
+### Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoAlbqq/ThiagoAlbqq/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoAlbqq/ThiagoAlbqq/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ThiagoAlbqq/ThiagoAlbqq/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
