@@ -1,26 +1,29 @@
 # Thiago Albuquerque
 
-Estudante de **Ciência da Computação** na **Universidade Federal do Ceará (UFC)** e pesquisador no **NERDS** (*Núcleo Especializado em Reengenharia e Desenvolvimento de Software*). Atuação voltada para **Pesquisa Operacional, Otimização Combinatória, Modelagem Matemática** e **Engenharia de Software**.
+Graduando em **Ciência da Computação** na **Universidade Federal do Ceará (UFC, Campus Russas)** e desenvolvedor/bolsista no **NERDS** (*Núcleo Especializado em Reengenharia e Desenvolvimento de Software*).
+
+Atuação prática voltada para **Cloud Engineering, DevOps e Infraestrutura**, com experiência em administração de ambientes Linux (VPS), conteinerização com Docker, criação de pipelines de CI/CD via GitHub Actions e sustentação de serviços de backend e banco de dados em produção.
 
 ---
 
-### Perfil e Áreas de Interesse
+### Áreas de Atuação
 
-- **Pesquisa Operacional & Otimização:** Formulação e resolução de modelos matemáticos (PL, PLM, Otimização em Grafos) e análise de complexidade de algoritmos.
-- **Desenvolvimento de Software:** Criação de sistemas robustos, arquitetura de APIs RESTful e interfaces modernas para aplicações de alto impacto.
-- **Engenharia de Dados & Modelagem:** Estruturação de bancos de dados relacionais e manipulação de fluxos de dados para suporte à tomada de decisão.
+- **Infraestrutura & DevOps:** Administração de servidores Linux (VPS), gestão de contêineres Docker, Docker Compose, Docker Swarm, configuração de proxy reverso com Nginx e deploys via SSH.
+- **CI/CD & Automação:** Construção e sustentação de workflows no GitHub Actions (build, testes, geração de imagens no GHCR e deploy automático) e scripts em Shell/Bash e Python.
+- **Segurança & IAM:** Implementação de rate limiting, proteção contra força bruta e integração corporativa com Keycloak (OAuth2, OIDC, JWT).
+- **Dados & Storage:** Storage de objetos compatível com S3 (MinIO), modelagem e rotinas em PostgreSQL com versionamento via Flyway, além de pipelines assíncronos para processamento de dados em lote.
+- **Fundamentos & Algoritmos:** Sólida base matemática e computacional, com premiações acadêmicas na UFC (1º lugar na Maratona de Teoria dos Grafos e 2º lugar na Maratona de Matemática Computacional) e pesquisa em otimização combinatória.
 
 ---
 
 ### Tecnologias
 
 ```
-Linguagens       : Java, Python, JavaScript (ES6+), TypeScript, C/C++
-Backend          : Node.js, Express, Spring Boot, REST APIs
-Frontend         : React, Vite, HTML5, CSS3, Tailwind CSS
-Bancos de Dados  : PostgreSQL, MySQL
-Otimização/Dados : NumPy, Pandas, OR-Tools, PuLP
-Ferramentas/OS   : Git, GitHub, Docker, Linux, VS Code
+Cloud & Infra    : Linux (Ubuntu/Debian), Docker, Docker Compose, Docker Swarm, Nginx, MinIO (S3 API)
+CI/CD & DevOps   : GitHub Actions, GHCR, Shell / Bash, Git
+Segurança & IAM  : Keycloak, OAuth2, OIDC, JWT, Rate Limiting
+Bancos de Dados  : PostgreSQL, Flyway, Modelagem Relacional, SQL
+Linguagens       : Java (Spring Boot), Python, JavaScript, C/C++
 ```
 
 ---
@@ -52,14 +55,5 @@ Ferramentas/OS   : Git, GitHub, Docker, Linux, VS Code
 
 ### Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ThiagoAlbqq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:thiago.ce.al@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thiago.ce.al%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ThiagoAlbqq">
-    <img src="https://img.shields.io/badge/GitHub-ThiagoAlbqq-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- LinkedIn: [linkedin.com/in/thiagoalbqq](https://www.linkedin.com/in/thiagoalbqq)
+- E-mail: [thiago.ce.al@gmail.com](mailto:thiago.ce.al@gmail.com)
